@@ -1,3 +1,8 @@
+# KiCAD-unique files that don't need backing up
+\#auto_saved_files\#
+ArduinoMega2560_K3NG_Keyer_SMT-backups
+*.lck
+
 # Prerequisites
 *.d
 
