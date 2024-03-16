@@ -2,6 +2,7 @@
 \#auto_saved_files\#
 ArduinoMega2560_K3NG_Keyer_SMT-backups
 *.lck
+fp-info-cache
 
 # Prerequisites
 *.d
