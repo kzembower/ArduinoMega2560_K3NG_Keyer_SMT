@@ -1204,7 +1204,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 13d632ed-bf81-439a-a37e-4502bce773f6)
   )
-  (text "NOTE: Vary RV4 to ???" (at 101.6 168.91 0)
+  (text "NOTE: Vary RV4 to\nchange volume." (at 101.6 168.91 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 24734048-1b26-4b12-99d4-9f2b7c332685)
   )
